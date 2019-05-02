@@ -16,9 +16,9 @@
 #     along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 function help () {
-	echo 'gnomescrlock - Simple control script for gnome3 screensaver'
+	echo 'gnome3-screenlock-cli - Simple control script for gnome3 screensaver'
 	echo ''
-	echo '<program>  Copyright (C) 2019  Jark255'
+	echo 'gnome3-screenlock-cli  Copyright (C) 2019  Jark255'
     echo 'This program comes with ABSOLUTELY NO WARRANTY; for details type `show w`.'
     echo 'This is free software, and you are welcome to redistribute it'
     echo 'under certain conditions; type `show c` for details.'
